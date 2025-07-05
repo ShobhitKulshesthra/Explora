@@ -47,5 +47,5 @@
 
 1. *Clone the Repository*:  
    ```bash
-   git clone https://github.com/radhipatel157/Explora.git
+   git clone https://github.com/ShobhitKulshesthra/Explora.git
    cd Explora
